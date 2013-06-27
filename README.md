@@ -5,7 +5,6 @@
 ## Source
 
 http://www.nyc.gov/html/dcp/html/bytes/applbyte.shtml
-http://www.nyc.gov/html/dc/html/maps/maps.shtml
 
 ## Process
 
